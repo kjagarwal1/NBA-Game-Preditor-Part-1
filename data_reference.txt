@@ -1,0 +1,3 @@
+https://www.kaggle.com/schmadam97/nba-playbyplay-data-20182019
+
+There was one line in the 2017-2018 file that threw an error. I deleted that one line of from the data. If you are going to run this, you would have to exclude the 2017-2018 data.
